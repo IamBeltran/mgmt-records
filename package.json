@@ -4,6 +4,10 @@
   "description": "Module for the management of records in array object",
   "main": "./src/index.js",
   "scripts": {
+    "precommit": "lint-staged",
+    "eslint:src": "cross-env NODE_ENV=test gulp eslint:src",
+    "quick:eslint": "cross-env NODE_ENV=test gulp quick:eslint",
+    "quick:test": "cross-env NODE_ENV=test nodemon ./quick.test.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
