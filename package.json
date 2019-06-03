@@ -1,0 +1,28 @@
+{
+  "name": "mgmt-records",
+  "version": "0.0.0",
+  "description": "Module for the management of records in array object",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IamBeltran/mgmt-records.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Excel",
+    "Record",
+    "Database",
+    "Array",
+    "Object",
+    "Management"
+  ],
+  "author": "Victor Giovanni Beltrán Rodríguez <beltran-victor@outlook.com> (https://vgbr-dev.blogspot.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IamBeltran/mgmt-records/issues"
+  },
+  "homepage": "https://github.com/IamBeltran/mgmt-records#readme"
+}
