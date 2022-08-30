@@ -61,7 +61,7 @@
     "ansi-colors": "^3.2.4",
     "cross-env": "^5.2.0",
     "moment": "^2.24.0",
-    "moment-timezone": "^0.5.25",
+    "moment-timezone": "^0.5.35",
     "xlsx": "^0.14.3"
   }
 }
